@@ -1,6 +1,6 @@
 {
   "name": "@sandikbarr/how-to-npm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "solutions to how-to-npm",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,5 @@
     "url": "https://github.com/nodeschool-omaha/how-to-npm/issues"
   },
   "homepage": "https://github.com/nodeschool-omaha/how-to-npm#readme",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  }
+  "dependencies": {}
 }
