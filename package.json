@@ -1,0 +1,25 @@
+{
+  "name": "@sandikbarr/how-to-npm",
+  "version": "1.0.0",
+  "description": "solutions to how-to-npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://git@github.com/nodeschool-omaha/how-to-npm.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Sandi K Barr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nodeschool-omaha/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/nodeschool-omaha/how-to-npm#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
